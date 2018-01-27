@@ -1,5 +1,5 @@
 ﻿Step 1
-    Open the folder named "editable-files"
+    Open the folder named "editable-file"
     All the four files are to be edited for different purposes.
     File "ab.tex" should be edited to include your abstract and a few key words included in it.
     File "abbrev.tex" is only for abbreviation definitions. If abbreviations are not separately required in a page, ignore the file. Not needed to remove it.
