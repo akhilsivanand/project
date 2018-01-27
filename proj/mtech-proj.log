@@ -1,0 +1,781 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2018.1.11)  27 JAN 2018 22:17
+entering extended mode
+**./mtech-proj.tex
+(mtech-proj.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(Z:\Software\tex\latex\base\report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(Z:\Software\tex\latex\base\size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(Z:\Software\tex\latex\base\inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ (Z:\Software\tex\latex\base\latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+)) (Z:\Software\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(Z:\Software\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(Z:\Software\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(Z:\Software\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(Z:\Software\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(Z:\Software\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(Z:\Software\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(Z:\Software\tex\latex\base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(Z:\Software\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(Z:\Software\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count100
+)
+(Z:\Software\tex\latex\nomencl\nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen112
+\nom@tempdim=\dimen113
+\nomitemsep=\skip48
+)
+(Z:\Software\tex\latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(Z:\Software\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(Z:\Software\tex\latex\graphics\graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(Z:\Software\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(Z:\Software\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(Z:\Software\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(Z:\Software\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(Z:\Software\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(Z:\Software\tex\latex\tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+(Z:\Software\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(Z:\Software\tex\latex\graphics\rotating.sty
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
+
+(Z:\Software\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count102
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box28
+\rot@mess@toks=\toks23
+)
+(Z:\Software\tex\latex\threeparttable\threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box29
+)
+(Z:\Software\tex\latex\tools\tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(Z:\Software\tex\latex\tools\array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen116
+\extrarowheight=\dimen117
+\NC@list=\toks24
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\TX@col@width=\dimen118
+\TX@old@table=\dimen119
+\TX@old@col=\dimen120
+\TX@target=\dimen121
+\TX@delta=\dimen122
+\TX@cols=\count103
+\TX@ftn=\toks25
+)
+(Z:\Software\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(Z:\Software\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen123
+\captionmargin@=\dimen124
+\captionwidth=\dimen125
+\caption@tempdima=\dimen126
+\caption@indent=\dimen127
+\caption@parindent=\dimen128
+\caption@hangindent=\dimen129
+)
+\c@ContinuedFloat=\count104
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+(Z:\Software\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip53
+\subfigcapskip=\skip54
+\subfigcaptopadj=\dimen130
+\subfigbottomskip=\skip55
+\subfigcapmargin=\dimen131
+\subfiglabelskip=\skip56
+\c@subfigure=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@lotdepth=\count108
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(Z:\Software\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip57
+\subfig@bottom=\skip58
+)
+(Z:\Software\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen132
+)
+(Z:\Software\tex\latex\tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks26
+\AP@partial=\box30
+\AP@footins=\box31
+)
+(Z:\Software\tex\latex\psnfss\times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(Z:\Software\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(Z:\Software\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(Z:\Software\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(Z:\Software\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count109
+\Gm@cntv=\count110
+\c@Gm@tempcnt=\count111
+\Gm@bindingoffset=\dimen133
+\Gm@wd@mp=\dimen134
+\Gm@odd@mp=\dimen135
+\Gm@even@mp=\dimen136
+\Gm@layoutwidth=\dimen137
+\Gm@layoutheight=\dimen138
+\Gm@layouthoffset=\dimen139
+\Gm@layoutvoffset=\dimen140
+\Gm@dimlist=\toks27
+
+(Z:\Software\tex\latex\geometry\geometry.cfg))
+\@nomenclaturefile=\write3
+\openout3 = `mtech-proj.nlo'.
+
+
+Writing nomenclature file mtech-proj.nlo
+(Z:\Software\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(Z:\Software\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(Z:\Software\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \AP@enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(Z:\Software\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(Z:\Software\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count112
+\Hy@pagecounter=\count113
+
+(Z:\Software\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count114
+
+(Z:\Software\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count115
+
+(Z:\Software\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen142
+\Fld@menulength=\count116
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count117
+\c@Item=\count118
+\c@Hfootnote=\count119
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(Z:\Software\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count120
+\c@bookmark@seq@number=\count121
+
+(Z:\Software\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip59
+)
+\@indexfile=\write4
+\openout4 = `mtech-proj.idx'.
+
+
+Writing index file mtech-proj.idx
+
+LaTeX Warning: Unused global option(s):
+    [natbib].
+
+(mtech-proj.aux (non-editable-files/title.aux) (non-editable-files/dec.aux)
+(non-editable-files/cert.aux) (editable-files/ack.aux) (editable-files/ab.aux)
+(chapter-files/intro.aux) (chapter-files/lit.aux) (chapter-files/chap3.aux)
+(chapter-files/chap4.aux) (chapter-files/chap5.aux) (chapter-files/conc.aux))
+\openout1 = `mtech-proj.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+
+(Z:\Software\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(Z:\Software\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen145
+\scratchbox=\box32
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen146
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks29
+) (Z:\Software\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(Z:\Software\tex\latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 416.83289pt, 90.3375pt)
+* v-part:(T,H,B)=(90.3375pt, 664.37186pt, 90.3375pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=664.37186pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 37.
+(Z:\Software\tex\latex\hyperref\nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(Z:\Software\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+ (mtech-proj.out)
+(mtech-proj.out)
+\@outlinefile=\write5
+\openout5 = `mtech-proj.out'.
+
+ (editable-files/acr.tex) (editable-files/abbrev.tex)
+\openout2 = `./non-editable-files/title.aux'.
+
+
+(non-editable-files/title.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+ (Z:\Software\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+
+(Z:\Software\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 14.
+
+<./picture-files/logo.pdf, id=206, 269.005pt x 225.84375pt>
+File: ./picture-files/logo.pdf Graphic file (type pdf)
+
+<use ./picture-files/logo.pdf>
+Package pdftex.def Info: ./picture-files/logo.pdf used on input line 24.
+(pdftex.def)             Requested size: 107.60419pt x 90.3375pt.
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./picture-files/logo.pdf>
+])
+\openout2 = `./non-editable-files/dec.aux'.
+
+ (non-editable-files/dec.tex [1
+
+
+])
+\openout2 = `./non-editable-files/cert.aux'.
+
+
+(non-editable-files/cert.tex
+File: ./picture-files/logo.pdf Graphic file (type pdf)
+ <use ./picture-files/logo.pdf>
+Package pdftex.def Info: ./picture-files/logo.pdf used on input line 10.
+(pdftex.def)             Requested size: 108.405pt x 91.01132pt.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48 \include{./non-editable-files/cert}
+                                        \cleardoublepage [1
+
+
+]
+\openout2 = `./editable-files/ack.aux'.
+
+
+(editable-files/ack.tex)pdfTeX warning (ext4): destination with the same identi
+fier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.52 \include{./editable-files/ack}
+                                    [1
+
+
+
+]
+\openout2 = `./editable-files/ab.aux'.
+
+ (editable-files/ab.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 14.
+) [2
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
+
+(mtech-proj.toc [3
+
+
+])
+\tf@toc=\write6
+\openout6 = `mtech-proj.toc'.
+
+ [4] (mtech-proj.lot)
+\tf@lot=\write7
+\openout7 = `mtech-proj.lot'.
+
+ [5
+
+] (mtech-proj.lof)
+\tf@lof=\write8
+\openout8 = `mtech-proj.lof'.
+
+ [6
+
+]
+\openout2 = `./chapter-files/intro.aux'.
+
+
+(chapter-files/intro.tex
+Chapter 1.
+
+Overfull \hbox (2.46564pt too wide) in paragraph at lines 17--18
+[]\OT1/ptm/m/n/12 To mea-sure the cost ef-fec-tive-ness of E-Procurement of in-
+di-rect ma-te-ri-als in BPCL-
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.29 
+      [1
+
+
+
+]) [2]
+\openout2 = `./chapter-files/lit.aux'.
+
+ (chapter-files/lit.tex
+Chapter 2.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 4.
+(Z:\Software\tex\latex\psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [3
+
+
+
+] [4]
+<"picture-files/Bathtub curve".png, id=355, 616.55344pt x 346.29375pt>
+File: "picture-files/Bathtub curve".png Graphic file (type png)
+
+<use "picture-files/Bathtub curve".png>
+Package pdftex.def Info: "picture-files/Bathtub curve".png used on input line 5
+5.
+(pdftex.def)             Requested size: 291.78174pt x 163.88358pt.
+ [5 <./picture-files/Bathtub curve.png>] [6] [7] <picture-files/Arduino.png, id
+=368, 254.45062pt x 165.61874pt>
+File: picture-files/Arduino.png Graphic file (type png)
+
+<use picture-files/Arduino.png>
+Package pdftex.def Info: picture-files/Arduino.png used on input line 129.
+(pdftex.def)             Requested size: 291.78174pt x 189.92432pt.
+
+<"picture-files/wifi module".png, id=372, 197.23688pt x 151.3153pt>
+File: "picture-files/wifi module".png Graphic file (type png)
+
+<use "picture-files/wifi module".png>
+Package pdftex.def Info: "picture-files/wifi module".png used on input line 153
+.
+(pdftex.def)             Requested size: 291.78174pt x 223.86693pt.
+ [8 <./picture-files/Arduino.png>]
+[9 <./picture-files/wifi module.png>] [10] [11]
+Overfull \hbox (5.3033pt too wide) in paragraph at lines 208--212
+[]\OT1/ptm/m/n/12 The ben-e-fits of adopt-ing e-procurement tech-nolo-gies have
+ been widely re-searched
+ []
+
+[12] [13]) [14]
+\openout2 = `./chapter-files/chap3.aux'.
+
+ (chapter-files/chap3.tex
+Chapter 3.
+File: ./picture-files/logo.pdf Graphic file (type pdf)
+<use ./picture-files/logo.pdf>
+Package pdftex.def Info: ./picture-files/logo.pdf used on input line 11.
+(pdftex.def)             Requested size: 166.7306pt x 139.98032pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `e-proc' on page 15 undefined on input line 47.
+
+
+LaTeX Warning: Reference `e-proc' on page 15 undefined on input line 47.
+
+[15
+
+
+
+]) [16]
+\openout2 = `./chapter-files/chap4.aux'.
+
+ (chapter-files/chap4.tex
+Chapter 4.
+[17
+
+
+
+]) [18]
+\openout2 = `./chapter-files/chap5.aux'.
+
+ (chapter-files/chap5.tex
+Chapter 5.
+<./picture-files/seagull.jpeg, id=480, 278.03876pt x 182.6825pt>
+File: ./picture-files/seagull.jpeg Graphic file (type jpg)
+
+<use ./picture-files/seagull.jpeg>
+Package pdftex.def Info: ./picture-files/seagull.jpeg used on input line 11.
+(pdftex.def)             Requested size: 166.7306pt x 109.54901pt.
+
+<./picture-files/lion.png, id=481, 159.59625pt x 129.48375pt>
+File: ./picture-files/lion.png Graphic file (type png)
+
+<use ./picture-files/lion.png>
+Package pdftex.def Info: ./picture-files/lion.png used on input line 14.
+(pdftex.def)             Requested size: 145.89404pt x 118.36778pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [19
+
+
+
+ <./picture-files/seagull.jpeg> <./picture-files/lion.png>] [20] [21]
+\openout2 = `./chapter-files/conc.aux'.
+
+
+(chapter-files/conc.tex
+Chapter 6.
+) [22
+
+
+
+] (mtech-proj.bbl) [23
+
+
+]
+No file mtech-proj.ind.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+(mtech-proj.aux (non-editable-files/title.aux) (non-editable-files/dec.aux)
+(non-editable-files/cert.aux) (editable-files/ack.aux) (editable-files/ab.aux)
+(chapter-files/intro.aux) (chapter-files/lit.aux) (chapter-files/chap3.aux)
+(chapter-files/chap4.aux) (chapter-files/chap5.aux) (chapter-files/conc.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package rerunfilecheck Info: File `mtech-proj.out' has not changed.
+(rerunfilecheck)             Checksum: 58595CE6961B9BA0569095F25400FD19;3452.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+ ) 
+Here is how much of TeX's memory you used:
+ 8824 strings out of 493334
+ 127982 string characters out of 3146156
+ 228365 words of memory out of 3000000
+ 11991 multiletter control sequences out of 15000+200000
+ 26478 words of font info for 57 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,13n,42p,1210b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
+{Z:/Software/fonts/enc/dvips/fontname/8r.enc}<Z:/Software/fonts/type1/public/
+amsfonts/cm/cmex10.pfb><Z:/Software/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+Z:/Software/fonts/type1/public/amsfonts/cm/cmmi8.pfb><Z:/Software/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><Z:/Software/fonts/type1/public/amsfonts/cm/cmr8.pf
+b><Z:/Software/fonts/type1/public/amsfonts/cm/cmsy10.pfb><Z:/Software/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb><Z:/Software/fonts/type1/urw/courier/ucrr8a.pfb
+><Z:/Software/fonts/type1/urw/times/utmb8a.pfb><Z:/Software/fonts/type1/urw/tim
+es/utmbi8a.pfb><Z:/Software/fonts/type1/urw/times/utmr8a.pfb><Z:/Software/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on mtech-proj.pdf (32 pages, 534504 bytes).
+PDF statistics:
+ 574 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 439 words of extra memory for PDF output out of 10000 (max. 10000000)
+
